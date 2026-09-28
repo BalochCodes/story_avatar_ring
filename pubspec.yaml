@@ -1,0 +1,28 @@
+name: story_avatar_ring
+description: Instagram and WhatsApp style multi-segment animated status and story ring widget for Flutter with live pulse animations, custom gradients, and badges.
+version: 0.0.1
+homepage: https://github.com/BalochCodes/story_avatar_ring
+repository: https://github.com/BalochCodes/story_avatar_ring
+issue_tracker: https://github.com/BalochCodes/story_avatar_ring/issues
+
+topics:
+  - avatar
+  - story
+  - instagram
+  - ring
+  - status
+
+environment:
+  sdk: '>=3.0.0 <4.0.0'
+  flutter: '>=3.0.0'
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+  flutter_lints: ^5.0.0
+
+flutter:
